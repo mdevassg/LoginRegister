@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+
+    <string-array name="names">
+        <item>Food</item>
+        <item>Utilities</item>
+        <item>Enterntainent</item>
+        <item>Groceries</item>
+        <item>Bills</item>
+    </string-array>
+</resources>
